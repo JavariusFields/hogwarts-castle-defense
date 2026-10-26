@@ -8,7 +8,7 @@ This project implements defense-in-depth principles in a dedicated GCP Virtual P
 
 
 
-!\[Hogwarts Castle Defense Architecture](assets/gcp\_architecture.drawio.png)
+!\[Hogwarts Castle Defense Architecture](assets/gcp\_architecture.png)
 
 
 
