@@ -1,14 +1,15 @@
-# \### Hogwarts Castle Defense — Secure Cloud Architecture \& SIEM Pipeline
+# Hogwarts Castle Defense — Secure Cloud Architecture \& SIEM Pipeline
 
 This is a production-grade, secure multi-tier cloud infrastructure and centralized security information and event management (SIEM) pipeline built on Google Cloud Platform (GCP) and managed with Terraform.
 
-Architecture Overview
+# Architecture Overview
 
 This project implements defense-in-depth principles in a dedicated GCP Virtual Private Cloud (hogwarts-vpc), which isolates compute workloads while maintaining secure administrative access and centralized log auditing.
 
 
 
-!\[Hogwarts Castle Defense Architecture](assets/gcp\_architecture.png)
+<img width="610" height="314" alt="image" src="https://github.com/user-attachments/assets/fe280b54-eb2a-4d67-9093-befd444ee477" />
+
 
 
 
