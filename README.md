@@ -25,7 +25,7 @@ This project implements defense-in-depth principles in a dedicated GCP Virtual P
 
 
 
-#### \### Infrastructure as Code (Terraform)
+## Infrastructure as Code (Terraform)
 
 This code is managed using Terraform with remote state separation and lifecycle safeguards for live virtual machine preservation.
 
