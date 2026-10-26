@@ -13,7 +13,7 @@ This project implements defense-in-depth principles in a dedicated GCP Virtual P
 
 
 
-#### \### Security Controls Implemented
+## Security Controls Implemented
 
 **Zero-Trust Administrative Access:** Ingress SSH (port 22) is strictly limited to Google's Identity-Aware Proxy (IAP) CIDR range (35.235.240.0/20), which eliminates public IP exposure.
 
